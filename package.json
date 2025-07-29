@@ -1,0 +1,10 @@
+{
+  "name": "wise-mvp",
+  "version": "1.0.0",
+  "description": "Full stack webapp summarising Wise international transfers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
